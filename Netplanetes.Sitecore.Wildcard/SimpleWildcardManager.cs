@@ -10,7 +10,7 @@ namespace Netplanetes.Sitecore.Wildcard
 {
     /// <summary>
     /// Simple Light weight Wildcard Manager.
-    /// Is is intended to use easily and work without configuration.
+    /// It is intended to use easily and work without configuration.
     /// </summary>
     public class SimpleWildcardManager
     {
